@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live Site URL](https://qr-code-html-css.netlify.app)
+- Live Site URL: [URL](https://qr-code-html-css.netlify.app)
 
 ### Built with
 
